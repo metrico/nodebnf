@@ -1,12 +1,12 @@
 {
-  "name" : "bnf",
+  "name" : "@qxip/bnf",
   "description" : "BNF Compiler, parser, and interpreter framework.",
-  "url" : "http://github.com/navstev0/nodebnf",
+  "url" : "http://github.com/metrico/nodebnf",
   "keywords" : ["parser", "interpreter", "compiler", "bnf", "lexical"],
-  "author" : "Steven Adams <steven@consultstevo.com>",
-  "repository": "git://github.com/navstev0/nodebnf.git",
-  "license": "GPL-3.0",
+  "author" : "Akvlad <akvlad@qxip.net>",
+  "repository": "git://github.com/metrico/nodebnf.git",
+  "license": "AGPL-3.0",
   "dependencies" : [],
   "main" : "./Compiler.js",
-  "version" : "1.0.1"
+  "version" : "1.0.2"
 }
